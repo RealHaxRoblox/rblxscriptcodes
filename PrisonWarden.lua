@@ -9330,7 +9330,7 @@ fly.TextSize = 14.000
 fly.TextWrapped = true
 fly.MouseButton1Down:connect(function()
  local hint = Instance.new("Hint",game.Players.LocalPlayer.PlayerGui)
-   hint.Text = "Press Z To Toggle"
+   hint.Text = "Press G To Toggle"
    hint.Name = game.JobId
 repeat wait()
     until game.Players.LocalPlayer and game.Players.LocalPlayer.Character and game.Players.LocalPlayer.Character:findFirstChild("Torso") and game.Players.LocalPlayer.Character:findFirstChild("Humanoid")
