@@ -1,4 +1,4 @@
-print("CodeScript codes")
+print("Codes")
 print(" Reviz : Reviz Admin 2.0")
 print(" inDEX : Dex Exlplorer 2.0")
 print("PrisonWarden : Best Prison Life scripts")
